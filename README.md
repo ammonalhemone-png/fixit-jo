@@ -1,21 +1,24 @@
-<<<<<<< HEAD
-# fixit_jo
+# FixIt Jo 🔧
 
-A new Flutter project.
+A mobile application for connecting customers with local technicians in Amman, Jordan.
 
-## Getting Started
+## Team Members
+- Tuleen Malik Mahmoud Alshattel
+- - Amneh Khaled Ahmed Alhemone
+- Noor Sudqi Mousa Abuirshied
 
-This project is a starting point for a Flutter application.
+## Supervisor
+- Dr. Omar Al-Tarawneh
+- Co-Supervisor: Dr. Mejhem Al-Tarawneh
 
-A few resources to get you started if this is your first Flutter project:
+## About the App
+FixIt Jo helps customers find nearby technicians for home maintenance services such as plumbing, electrical work, carpentry, heating, and air conditioning. The app uses GPS to locate the nearest available technician and includes an AI-powered chatbot to assist users.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tech Stack
+- Flutter
+- Firebase
+- Google Maps API
+- Gemini AI API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# fixit-jo
->>>>>>> 4e479143b99b6bd52bcd860a10bf99cf184f9626
+## University
+Amman Arab University - College of Information Technology
